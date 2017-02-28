@@ -1,2 +1,2 @@
-# new-collector-landing
-Landing page for Marketo
+# maintenance-page
+Artsy maintenance page.
